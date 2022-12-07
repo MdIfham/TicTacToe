@@ -7,6 +7,9 @@
 
 body{
     background-color: #9baed6;
+    background: rgb(33, 34, 38);
+    background: linear-gradient(180deg, rgb(95 95 114) 0%, rgba(33, 37, 49, 1) 100%) no-repeat;
+    color: #eee7e7;
 }
 
 
@@ -164,8 +167,8 @@ border: solid #210321 5.5px;
 }
 
 .rules-card-front {
-    background-color: #604040;
-    color: black;
+    background-color: #e7dcdc;
+    color: #0a0101;
 }
 
 .rules-card-back {
