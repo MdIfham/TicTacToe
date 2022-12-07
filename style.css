@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: grey;
+    background-color: #9baed6;
 }
 
 
@@ -25,12 +25,12 @@ body{
     height: 50px;
     width:90px;
     font-size: 1.4rem;
-    background-color: #b83b5e;
+    background-color: #590b21;
     margin: 1.5rem;
     border-radius: 10px;
     color: whitesmoke;
     cursor: pointer;
-     margin-left: 2.5rem;
+    margin-left: 2.5rem;
 }
 
 #restart-button:hover{
@@ -56,10 +56,11 @@ body{
 
 .box {
 
-    height: 90px;
-    width: 90px;
-    border: solid purple 5.5px;
- 
+height: 90px;
+
+width: 90px;
+
+border: solid #210321 5.5px;
 }
 
 
@@ -67,22 +68,22 @@ body{
 
 /* stylings for individual boxes */
 .first-box{
-    border-top: solid grey 4px;
-    border-left: solid grey 4px;
+    border-top: solid #210321 4px;
+    border-left: solid #210321 4px;
    
 }
 
 .second-box{
-    border-top: solid grey 4px;
+    border-top: solid #210321 4px;
 }
 
 .third-box{
-       border-top: solid grey 4px;
-       border-right: solid grey 4px;
+       border-top: solid #210321 4px;
+       border-right: solid #210321 4px;
 }
 
 .fourth-box{
-    border-left: solid grey 4px;
+    border-left: solid #210321 4px;
 }
 /* 
 .fifth-box{
@@ -91,22 +92,22 @@ body{
 
 .sixth-box{
     /* border-top: solid grey 4px; */
-    border-right: solid grey 4px;
+    border-right: solid #210321 4px;
 }
 .seventh-box{
-    border-left: solid grey 4px;
-    border-bottom:solid grey 4px;
+    border-left: solid #210321 4px;
+    border-bottom:solid #210321 4px;
 }
 
 .eighth-box{
-    border-bottom:solid grey 4px;
+    border-bottom:solid #210321 4px;
     
 }
 
 
 .ninth-box{
-    border-bottom:solid grey 4px;
-    border-right: solid grey 4px;
+    border-bottom:solid #210321 4px;
+    border-right: solid #210321 4px;
 
 }
 
@@ -163,7 +164,7 @@ body{
 }
 
 .rules-card-front {
-    background-color: grey;
+    background-color: #604040;
     color: black;
 }
 
@@ -209,28 +210,28 @@ padding:1rem 2rem;
 
 .box {
 
-    height: 90px;
-    width: 90px;
-    border: solid purple 4px;
+    /* height: 90px; */
+    /* width: 90px; */
+    border: solid #210321 4px;
     padding-bottom: 2rem;
 }
 
 .first-box {
-    border-top: solid grey 4px;
-    border-left: solid grey 4px;
+    border-top: solid #210321 4px;
+    border-left: solid #210321 4px;
 }
 
 .second-box {
-    border-top: solid grey 4px;
+    border-top: solid #210321 4px;
 }
 
 .third-box {
-    border-top: solid grey 4px;
-    border-right: solid grey 4px;
+    border-top: solid #210321 4px;
+    border-right: solid #210321 4px;
 }
 
 .fourth-box {
-    border-left: solid grey 4px;
+    border-left: solid #210321 4px;
 }
 
 /* 
@@ -240,23 +241,23 @@ padding:1rem 2rem;
 
 .sixth-box {
     /* border-top: solid grey 4px; */
-    border-right: solid grey 4px;
+    border-right: solid #210321 4px;
 }
 
 .seventh-box {
-    border-left: solid grey 4px;
-    border-bottom: solid grey 4px;
+    border-left: solid #210321 4px;
+    border-bottom: solid #210321 4px;
 }
 
 .eighth-box {
-    border-bottom: solid grey 4px;
+    border-bottom: solid #210321 4px;
 
 }
 
 
 .ninth-box {
-    border-bottom: solid grey 4px;
-    border-right: solid grey 4px;
+    border-bottom: solid #210321 4px;
+    border-right: solid #210321 4px;
 
 }
 
